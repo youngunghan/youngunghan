@@ -32,14 +32,6 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
 
 <br>
 
-### Featured Projects
-
-*   **[OUTTA AI Tech Blog](https://blog.outta.ai/)**: Regularly publishing in-depth articles on Generative AI, LLMs, and Computer Vision.
-*   **[2025 OUTTA Gen AI](https://github.com/youngunghan/2025-OUTTA-Gen-AI)**: Comprehensive curriculum and resources for Generative AI study.
-*   **[Algorithm & Problem Solving](https://github.com/youngunghan/Algorithm-and-Problem-Solving)**: Archive of solutions for algorithmic problems (Baekjoon, Programmers).
-
-<br>
-
 ### Tech Stack
 
 <div align="center">
@@ -73,11 +65,6 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
   <!-- LeetCode -->
   <a href="https://leetcode.com/hyulives">
     <img src="https://leetcard.jacoblin.cool/hyulives?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180"/>
-  </a>
-
-  <!-- Programmers -->
-  <a href="https://programmers.co.kr/users/Seoultech">
-    <img src="https://programmers-badge-jh8459.vercel.app/api/v1/badge?id=Seoultech" alt="Programmers Badge" height="180"/>
   </a>
 
 </div>
