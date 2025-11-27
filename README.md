@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Youngung Han</h1>
   <p>
     <b>Ph.D. Candidate at Seoul National University (SNU)</b><br>
-    Passionate about Machine Learning, Systems, and Software Engineering.
+    Dedicated to solving complex, real-world challenges by leveraging mathematical frameworks and advanced computational methods.
   </p>
 
   <a href="https://github.com/youngunghan">
@@ -14,21 +14,29 @@
 
 ### About Me
 
-I am currently pursuing my Ph.D. at **Seoul National University**. My research focuses on building efficient and scalable systems for machine learning. I enjoy exploring new technologies and contributing to open-source projects.
+I am currently pursuing my Ph.D. at **Seoul National University**. I am driven by the potential of data and algorithms to create tangible impact and innovation.
 
-- I’m currently working on **ML Systems & Optimization**
-- I’m currently learning **Rust & Advanced Distributed Systems**
+- I’m currently working on **Medical AI & Logistics Optimization**
+- I’m currently learning **Advanced Distributed Systems & Optimization Theory**
 - I’m looking to collaborate on **Open Source AI Projects**
-- Ask me about **Python, PyTorch, C++**
+- Ask me about **Python, PyTorch, C++, Optimization**
 - How to reach me: [youngung.han@snu.ac.kr](mailto:youngung.han@snu.ac.kr)
 
 <br>
 
 ### Research Interests
 
-*   **Machine Learning Systems**: Optimizing training and inference pipelines.
-*   **Distributed Computing**: Scalable algorithms for large-scale data processing.
-*   **System Software**: Operating systems, storage, and networking for AI.
+*   **Medical AI**: Medical Imaging Analysis, Predictive Modeling, Clinical Data Mining.
+*   **Logistics Optimization**: Routing Algorithms, Demand Forecasting, Inventory Management.
+*   **Mathematics & Algorithmic Foundations**: Algorithm Design, Optimization Theory, Computational Complexity.
+
+<br>
+
+### Featured Projects
+
+*   **[OUTTA AI Tech Blog](https://blog.outta.ai/)**: Regularly publishing in-depth articles on Generative AI, LLMs, and Computer Vision.
+*   **[2025 OUTTA Gen AI](https://github.com/youngunghan/2025-OUTTA-Gen-AI)**: Comprehensive curriculum and resources for Generative AI study.
+*   **[Algorithm & Problem Solving](https://github.com/youngunghan/Algorithm-and-Problem-Solving)**: Archive of solutions for algorithmic problems (Baekjoon, Programmers).
 
 <br>
 
@@ -36,9 +44,9 @@ I am currently pursuing my Ph.D. at **Seoul National University**. My research f
 
 <div align="center">
 
-| Languages | Frameworks & Tools |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Languages | AI/ML Frameworks | Data Science |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 
 </div>
 
@@ -62,7 +70,7 @@ I am currently pursuing my Ph.D. at **Seoul National University**. My research f
   <a href="https://www.linkedin.com/in/youngunghan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=KUTvLfQAAAAJ&hl=ko">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  <a href="https://youngunghan.github.io/scitechblog/">
+    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
   </a>
 </div>
