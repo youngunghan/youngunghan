@@ -61,6 +61,24 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
 
 <br>
 
+### Coding Profile
+
+<div align="center">
+  
+  <!-- Baekjoon Online Judge (BOJ) -->
+  <a href="https://solved.ac/seoultech">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoultech" alt="Solved.ac Profile" height="180"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/youngunghan">
+    <img src="https://leetcard.jacoblin.cool/youngunghan?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180"/>
+  </a>
+
+</div>
+
+<br>
+
 ### Connect with Me
 
 <div align="center">
