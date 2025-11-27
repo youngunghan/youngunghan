@@ -75,6 +75,11 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
     <img src="https://leetcard.jacoblin.cool/hyulives?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180"/>
   </a>
 
+  <!-- Programmers -->
+  <a href="https://programmers.co.kr/users/Seoultech">
+    <img src="https://programmers-badge-jh8459.vercel.app/api/v1/badge?id=Seoultech" alt="Programmers Badge" height="180"/>
+  </a>
+
 </div>
 
 <br>
