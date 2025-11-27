@@ -64,7 +64,7 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/hyulives">
-    <img src="https://leetcard.jacoblin.cool/hyulives?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180"/>
+    <img src="https://leetcard.jacoblin.cool/Seoultech?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180"/>
   </a>
 
 </div>
