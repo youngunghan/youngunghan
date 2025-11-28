@@ -20,7 +20,6 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
 - I’m currently learning **Advanced Distributed Systems & Optimization Theory**
 - I’m looking to collaborate on **Open Source AI Projects**
 - Ask me about **Python, PyTorch, C++, Optimization**
-- How to reach me: [youngung.han@snu.ac.kr](mailto:youngung.han@snu.ac.kr)
 
 <br>
 
