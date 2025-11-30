@@ -17,7 +17,6 @@
 I am currently pursuing my Ph.D. at **Seoul National University**. I am driven by the potential of data and algorithms to create tangible impact and innovation.
 
 - I’m currently working on **Medical AI & Logistics Optimization**
-- I’m currently learning **Advanced Distributed Systems & Optimization Theory**
 - I’m looking to collaborate on **Open Source AI Projects**
 - Ask me about **Python, PyTorch, C++, Optimization**
 
