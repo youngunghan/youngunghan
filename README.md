@@ -45,19 +45,3 @@ I am currently pursuing my Ph.D. at **Seoul National University**. I am driven b
   </a>
 
 </div>
-
-<br>
-
-### Connect with Me
-
-<div align="center">
-  <a href="mailto:youngung.han@snu.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/youngunghan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://youngunghan.github.io/scitechblog/">
-    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
-  </a>
-</div>
