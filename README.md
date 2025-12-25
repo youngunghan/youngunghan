@@ -16,17 +16,31 @@
 
 I am currently pursuing my Ph.D. at **Seoul National University**. I am driven by the potential of data and algorithms to create tangible impact and innovation.
 
-- I’m currently working on **Medical AI & Logistics Optimization**
+- I’m currently working on **Medical AI & Railroad Science & Computer Science**
 - I’m looking to collaborate on **Open Source AI Projects**
-- Ask me about **Python, PyTorch, C++, Optimization**
+- Ask me about **Python, PyTorch, C++**
 
 <br>
 
-### Research Interests
+## Areas of Interest
 
-*   **Medical AI**: Medical Imaging Analysis, Predictive Modeling, Clinical Data Mining.
-*   **Logistics Optimization**: Routing Algorithms, Demand Forecasting, Inventory Management.
-*   **Mathematics & Algorithmic Foundations**: Algorithm Design, Optimization Theory, Computational Complexity.
+My focus lies at the intersection of theoretical foundations and high-impact applications, particularly in the following domains:
+
+### Medical AI
+- **Objective:** To develop and deploy robust machine learning models that enhance diagnostic accuracy and efficiency in healthcare systems.
+- **Focus Areas:** Medical Imaging Analysis, Predictive Modeling, Clinical Data Mining.
+
+### Railroad Science
+- **Objective:** To apply data-driven approaches to railway systems and transportation networks for improved safety and efficiency.
+- **Focus Areas:**
+  - **Logistics Optimization:** Routing Algorithms, Demand Forecasting, Inventory Management, Network Optimization.
+  - Supply Chain Management (SCM), Operations Research, Mathematical Modeling.
+
+### Computer Science
+- **Objective:** To design efficient algorithmic solutions and deepen understanding of the mathematical principles underlying computation.
+- **Focus Areas:**
+  - **Algorithms:** Algorithm Design, Data Structures, Competitive Programming, Computational Complexity.
+  - **Mathematics:** Linear Algebra, Optimization Theory, Probability, Discrete Mathematics.
 
 <br>
 
