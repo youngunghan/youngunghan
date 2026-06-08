@@ -5,6 +5,11 @@
     Dedicated to solving complex, real-world challenges by leveraging mathematical frameworks and advanced computational methods.
   </p>
 
+  <a href="mailto:yuhan@snu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?hl=ko&user=KUTvLfQAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/youngunghan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youngunghan.github.io/scitechblog/"><img src="https://img.shields.io/badge/Blog-FF5722?logo=rss&logoColor=white" alt="Blog"></a>
+  <br><br>
   <a href="https://github.com/youngunghan">
     <img src="https://komarev.com/ghpvc/?username=youngunghan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
   </a>
@@ -16,8 +21,8 @@
 
 I am currently pursuing my Ph.D. at **Seoul National University**. I am driven by the potential of data and algorithms to create tangible impact and innovation.
 
-- I’m currently working on **Medical AI & Railroad Science & Computer Science**
-- I’m looking to collaborate on **Open Source AI Projects**
+- I'm currently working on **Medical AI & Industrial AI & Railroad Science & Computer Science**
+- I'm looking to collaborate on **Open Source AI Projects**
 - Ask me about **Python, PyTorch, C++**
 
 <br>
@@ -29,6 +34,12 @@ My focus lies at the intersection of theoretical foundations and high-impact app
 ### Medical AI
 - **Objective:** To develop and deploy robust machine learning models that enhance diagnostic accuracy and efficiency in healthcare systems.
 - **Focus Areas:** Medical Imaging Analysis, Predictive Modeling, Clinical Data Mining.
+
+### Industrial AI
+- **Objective:** To bring vision and multimodal models into real-world industrial environments for safety monitoring, inspection, and quality control.
+- **Focus Areas:**
+  - **Visual Intelligence:** Anomaly & Defect Detection, Real-time Multi-channel Inference, Vision-Language Models (VLM) for Safety-Critical Systems.
+  - Predictive Maintenance, Fault Diagnosis, Time-Series Analysis, Industrial Inspection & Monitoring.
 
 ### Railroad Science
 - **Objective:** To apply data-driven approaches to railway systems and transportation networks for improved safety and efficiency.
@@ -44,14 +55,19 @@ My focus lies at the intersection of theoretical foundations and high-impact app
 
 <br>
 
+## Selected Publications
+
+- **LOSA-NET: A LOCALIZED AND SCALE-ADAPTIVE NETWORK FOR BOUNDARY-SENSITIVE PREDICTION OF PERINEURAL INVASION IN 3D MRI** - *IEEE ISBI 2026 (Oral)*
+- **MMA-FORMER: MULTI-WINDOW MIXTURE-OF-HEAD ATTENTION TRANSFORMER FOR ADAPTIVE PNI PREDICTION IN 3D MRI** - *IEEE ISBI 2026 (Oral)*
+- **NeoNet: An End-to-End 3D MRI-Based Deep Learning Framework for Non-Invasive Prediction of Perineural Invasion via Generation-Driven Classification** - *Workshop on Health Intelligence (W3PHIAI), AAAI 2026 (Oral)*
+
+> 📚 Full publication list on my [**Google Scholar**](https://scholar.google.com/citations?hl=ko&user=KUTvLfQAAAAJ).
+
+<br>
+
 ### Coding Profile
 
 <div align="center">
-  
-  <!-- Baekjoon Online Judge (BOJ) -->
-  <a href="https://solved.ac/seoultech">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoultech" alt="Solved.ac Profile" height="180"/>
-  </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/hyulives">
